@@ -120,7 +120,7 @@ sections:
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
